@@ -11,6 +11,8 @@
 
 ## Hecho por:
 
-###Ana García
+###Ari
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: 
+
+### Sitio web: https://vercel.com/arithebunns-projects/portafolio
